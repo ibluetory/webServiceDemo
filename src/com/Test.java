@@ -19,10 +19,10 @@ import com.ivms6.core.util.XMLUtils;
 public class Test {
 	
 	private static final String webServiceNameSpace = "http://ws.vms.ivms6.hikvision.com";
-	private static final String endpointAddress = "http://123.56.210.232/vms/services/VmsSdkWebService?wsdl";
-	private static final String loginAccount = "admin";
-	private static final String password = "3b612c75a7b5048a435fb6ec81e52ff92d6d795a8b5a9c17070f6a63c97a53b2";
-	private static final String serviceIp = "123.56.210.232";
+	private static final String endpointAddress = "http://ip/vms/services/VmsSdkWebService?wsdl";
+	private static final String loginAccount = "";
+	private static final String password = "";
+	private static final String serviceIp = "";
 
 	public static void main(String[] args) {
 		
