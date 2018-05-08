@@ -1,7 +1,10 @@
-
 # Java 调用 wsdl 形式的 webservice
 ## 项目背景
 一个B/S结构的java项目，需要集成海康的视频监控系统。
+
+## github地址
+
+[https://github.com/ibluetory/webServiceDemo](https://github.com/ibluetory/webServiceDemo/)
 
 ## 海康平台
 
